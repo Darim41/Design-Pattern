@@ -1,5 +1,7 @@
 public class Fila {
 
+    private Fila(){}
+
     private static Fila instance;
     
     private static void Fila(){}
